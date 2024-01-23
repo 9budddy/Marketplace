@@ -1,0 +1,36 @@
+Store 1: Tech & Lifestyle Hub
+
+Smart TV - $800
+Laptop - $1200
+Bluetooth headphones - $100
+Gaming console - $400
+Portable charger - $30
+Digital camera - $500
+Wireless mouse - $20
+Fitness tracker - $80
+Virtual reality headset - $300
+Smart thermostat - $150
+
+Store 2: Lifestyle & Electronics Emporium
+Bluetooth headphones - $100 (same as Tech & Lifestyle Hub)
+Designer handbag - $200
+Sunglasses - $50
+Gaming console - $380
+Fitness tracker - $85
+Microwave oven - $150
+Wall art - $70
+Smartwatch - $180
+Indoor plants - $40
+Smart thermostat - $150 (same as Tech & Lifestyle Hub)
+
+Store 3: Home & Tech Bazaar
+Coffee maker - $60
+Bedding set - $100
+Vacuum cleaner - $120
+Dinnerware set - $50
+Air purifier - $200
+Portable charger - $30 (same as Tech & Lifestyle Hub)
+Wireless mouse - $22
+Towel set - $25
+Virtual reality headset - $290
+Smart thermostat - $150 (same as Tech & Lifestyle Hub)
